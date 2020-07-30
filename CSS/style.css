@@ -1,0 +1,104 @@
+@charset "utf-8" ;
+
+body {
+    
+    font-size: 16px;
+    
+    font-family: monospace; ""
+}
+
+h1 {
+    
+    border-top: 6px dotted #ffff00 ;
+    
+    border-bottom: 6px dotted #ffff00 ;
+    
+    color:#ff7f00 ;
+    
+    text-align:  center;
+  
+    font-size: 35px;
+
+    font-family:sans-serif;
+   
+    line-height: 5em;
+    
+    background-image: url(../final/hatenamini.png);
+    
+    background-size: auto;
+  
+}
+
+h3 {
+    text-align:  center;
+    
+    font-size: 25px;
+    
+    line-height: 3em;
+}
+
+#question {
+    
+    color: #ff7f7f;
+}
+
+#select {
+    
+    color: #7fff7f  ;    
+}
+
+#answer {
+    
+    color: #7fbfff ; 
+}
+
+#text_q{
+    
+    color: brown;
+    
+    background-color: #ffbcbc;
+    
+}
+
+#text_s{
+    
+    color: darkgreen;
+    
+    background-color:#a3ffa3;
+    
+}
+
+#text_a{
+    
+    color:darkblue;
+    
+    background-color: #b2d8ff ;
+    
+}
+
+audio {
+    
+    text-align: center;
+}
+    
+div {
+    
+    text-align: center;
+    
+    font-size: 25px;
+ 
+}
+
+footer {
+    
+    text-align: center;
+        
+    line-height: 10em;
+    
+}
+bg {
+    
+    background-image: url(../final/hatena.jpg);
+    
+}
+
